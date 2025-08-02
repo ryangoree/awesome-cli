@@ -83,6 +83,7 @@
 </div>
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+- [@gud/cli](https://github.com/ryangoree/gud-cli) - Build interactive type-safe CLIs with file-based routing.
 
 ## Helpful
 
